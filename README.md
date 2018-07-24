@@ -2,29 +2,15 @@
 
 > A Vue.js project
 
-## Build Setup
+## Project Init Already
+1.Frame created 
+2.Some plug-ins that we need prepared (Sass,Axios,Swiper,animate)
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+*Use of gitHub:
+1.update:
+	git clone https://github.com/Verajwy/superCourse.git
+2.push:
+	git add .
+	git commit -m "代码提交信息"
+	git push origin master
