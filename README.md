@@ -3,14 +3,15 @@
 > A Vue.js project
 
 ## Project Init Already
->Frame created 
->Some plug-ins that we need prepared (Sass,Axios,Swiper,animate)
-
+``` bash
+1.Frame created 
+2.Some plug-ins that we need prepared (Sass,Axios,Swiper,animate)
+```
 
 *Use of gitHub:
 ``` bash
 1.update:
-	#git clone https://github.com/Verajwy/superCourse.git
+	git pull
 2.push:
 	git add .
 	git commit -m "代码提交信息"
